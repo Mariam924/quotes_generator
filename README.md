@@ -18,7 +18,7 @@ https://mariam924.github.io/quotes_generator/
 ### Generator Quotes App
 ![Generator Quotes](https://i.imgur.com/njyN2K4.png)
 
-## Recorded Video
+## 🎬 Recorded Video
 ![Cto-do-list-demo](./demo/record.gif)
 
 
