@@ -1,5 +1,5 @@
 
-# Simple To-Do List Website
+# Quotes Random Generator App
 
 
 A simple react app that generates random quotes and the author.
